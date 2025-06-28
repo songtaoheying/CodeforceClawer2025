@@ -1,3 +1,5 @@
+CodeforceClawer 2025
+
 这个项目是湘潭大学c语言期末大作业
 实现功能:从codeforce上爬取对象的比赛信息并通过网页展示
 
